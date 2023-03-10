@@ -176,6 +176,7 @@ F4 - to replase
 `sudo systemctl enable ssh` - to enable ssh on boot 
 
 <figcaption align = "center"><b>ssh status</b></figcaption>
+
 ![](img/8-1.png)
 
 <figcaption align = "center"><b>ufw status</b></figcaption>
@@ -236,7 +237,9 @@ You can use various keyboard commands to interact with the top program and custo
 
 ![](img/9-1.png)
 <figcaption align = "center"><b>top utility</b></figcaption>
- uptime and number of authorised users: ![](img/9-2.png)
+ uptime and number of authorised users: 
+ 
+ ![](img/9-2.png)
 
  total system load: ![](img/9-3.png)
 
